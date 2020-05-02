@@ -1,3 +1,4 @@
+# Exercicios-JavascriptES6-Rocketseat
 Exercícios do curso JS ES6 da Rocketseat 
 
 Lembre-se de instalar o plugin 'classproperties' no babel para o módulo 1.
